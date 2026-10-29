@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Halo Focus</string>
+    <string name="service_desc">Halo Focus watches which app is on screen so it can close the apps you chose while your Halo focus timer is running. It does not read what is inside any app.</string>
+</resources>
